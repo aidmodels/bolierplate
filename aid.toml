@@ -1,6 +1,7 @@
 [package]
-name="image_encoding"
-vendor="aidmodels"
+name="{{packageName}}"
+vendor="{{vendorName}}"
+description="{{description}}"
 
 [[solvers]] 
 name="encodingSolver"
