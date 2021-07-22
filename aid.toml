@@ -4,5 +4,5 @@ vendor="{{vendorName}}"
 description="{{description}}"
 
 [[solvers]] 
-name="encodingSolver"
-class="image_encoding/solver/EncodingSolver"
+name="{{packageName}}Solver"
+class="{{packageName}}/solver/{{packageName}}Solver"
